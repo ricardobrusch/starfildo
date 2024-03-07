@@ -2,7 +2,7 @@
 Space Shooter criado através do Construct3. O nome do repositório é uma brincadeira de referência ao game Starfield, da Bethesda.
 
 # Sobre o jogo
-Comportamento padrão de um Space Shooter, sendo a movimentação principal feita através das teclas AWSD ou através de touch na tela no respectivos direcionais. Para atirar é necessário clicar / tocar no botão à direita, com o símbolo de fogo. A criação deste jogo foi feita para 
+Comportamento padrão de um Space Shooter, sendo a movimentação principal feita através das teclas AWSD ou através de touch na tela no respectivos direcionais. Para atirar é necessário clicar / tocar no botão à direita, com o símbolo de fogo. A criação deste jogo foi feita para criar afinidade com a plataforma, pensando em projetos mais específicos que serão trabalhados na sequência.
 
 # Sobre a instalação
 Estes são os arquivos comuns para rodar o jogo diretamente no navegador, basta clonar o repositório e abrir o arquivo "index.html" sobre o protocolo HTTP para rodar. Importante: Não é possível rodar o jogo localmente, sobre o protocolo "FILE:". É necessário que ele esteja rodando sobre HTTP, obrigatoriamente.
